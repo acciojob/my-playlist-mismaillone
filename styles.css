@@ -1,1 +1,57 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204)
+}
+.header{
+	width:100%;
+}
+h1, h2, h3{
+	text-align:center;
+}
+#container{
+	margin:20px;
+	height:200px;
+	border:2px solid black;
+	border-radius:20px;
+	background:white;
+	padding:10px;
+}
+
+ul li ,a{
+	list-style:none;
+	text-decoration:none;
+	color:black;
+	font-size: 20px;
+}
+#mid-sec{
+	margin:10px;
+	display:flex;
+	justify-content:center;
+}
+#mid-first{
+    height:650px;
+	border:2px solid black;
+	border-radius:20px;
+	background-color: rgb(255, 255, 255);
+}
+video{
+	margin-top:5px;
+	width: 799px;
+	height:400px;	
+}
+audio{
+	padding:20px;
+	width:790px;
+	display:inline-block;
+	text-self:center;
+}
+h4{
+padding-left:30px;
+}
+
+
+
+
+
+
+
