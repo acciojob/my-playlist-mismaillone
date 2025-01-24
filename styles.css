@@ -1,35 +1,29 @@
-//your JS code here. If required.
 /*  your css code here. If applicable */
-body {
-			background-color: #cccccc;
-		}
-
-		.box {
-			display: flex;
-			flex-wrap: wrap;
-			justify-content: center;
-			align-items: center;
-			height: 100vh;
-		}
-
-		.box div {
-			margin: 10px;
-			padding: 10px;
-			background-color: lightblue;
-			border: 2px solid black;
-			text-align: center;
-			width: 150px;
-			height: 150px;
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			font-size: 20px;
-			font-weight: bold;
-			cursor: pointer;
-		}
-
-		.player_two {
-			margin: 10px;
-			width: 640px;
-			height: 360px;
-		}
+body{
+	background-color:rgb(204,204,204);
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+li{
+	list-style-type:none;
+}
+a{
+	text-decoration-line:none
+}
+.player_two{
+	background-color: rgb(255, 255, 255);
+	padding:10px;
+	border-radius: 5px
+}
+.player_one{
+	background-color: rgb(255, 255, 255);
+	padding:10px;
+	border-radius: 5px
+}
