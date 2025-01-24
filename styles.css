@@ -34,12 +34,12 @@ ul li ,a{
 	border-radius:20px;
 	background-color: rgb(255, 255, 255);
 }
-video{
+.player_one{
 	margin-top:5px;
 	width: 900px;
 	height:400px;	
 }
-audio{
+.player_two{
 	padding:20px;
 	width:790px;
 	display:inline-block;
